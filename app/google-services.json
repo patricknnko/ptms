@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813042507955",
+    "firebase_url": "https://ptms-c4ef1.firebaseio.com",
+    "project_id": "ptms-c4ef1",
+    "storage_bucket": "ptms-c4ef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813042507955:android:044270cd825415944390c6",
+        "android_client_info": {
+          "package_name": "com.example.ptms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813042507955-k6kr6mheol97t31c9tvmodj6nv4rse8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ptms",
+            "certificate_hash": "1e45bf30c0ea28c75a7654d7bbdda7ec95308281"
+          }
+        },
+        {
+          "client_id": "813042507955-c09kgt8rq52s8pgo905le7a4s8dl0ln4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuiEDI8akHRLI4ofCpGnaVE6Ujm4yZbiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813042507955-c09kgt8rq52s8pgo905le7a4s8dl0ln4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
